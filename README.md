@@ -1,2 +1,2 @@
 # python
-my small ptrhon project
+my python works
